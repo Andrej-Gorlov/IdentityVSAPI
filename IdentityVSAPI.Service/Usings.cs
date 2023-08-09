@@ -1,0 +1,16 @@
+﻿global using IdentityVSAPI.Domain.Entity.Dto;
+global using IdentityVSAPI.Domain.Response;
+global using IdentityVSAPI.Domain.Entity;
+global using Microsoft.AspNetCore.Identity;
+global using Microsoft.Extensions.Configuration;
+global using System.IdentityModel.Tokens.Jwt;
+global using Microsoft.IdentityModel.Tokens;
+global using System.Globalization;
+global using System.Security.Claims;
+global using System.Security.Cryptography;
+global using System.Text;
+global using IdentityVSAPI.DAL.Interfaces;
+global using IdentityVSAPI.Domain;
+global using IdentityVSAPI.Service.Helpers;
+global using Microsoft.Extensions.Logging;
+global using IdentityVSAPI.Service.Interfaces;

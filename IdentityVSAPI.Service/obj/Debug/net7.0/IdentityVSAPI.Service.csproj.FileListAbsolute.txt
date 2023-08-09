@@ -1,0 +1,17 @@
+C:\Users\admin\Desktop\Vasilek-Cerozhka\API\Identity\IdentityVSAPI\IdentityVSAPI.Service\bin\Debug\net7.0\IdentityVSAPI.Service.deps.json
+C:\Users\admin\Desktop\Vasilek-Cerozhka\API\Identity\IdentityVSAPI\IdentityVSAPI.Service\bin\Debug\net7.0\IdentityVSAPI.Service.dll
+C:\Users\admin\Desktop\Vasilek-Cerozhka\API\Identity\IdentityVSAPI\IdentityVSAPI.Service\bin\Debug\net7.0\IdentityVSAPI.Service.pdb
+C:\Users\admin\Desktop\Vasilek-Cerozhka\API\Identity\IdentityVSAPI\IdentityVSAPI.Service\bin\Debug\net7.0\IdentityVSAPI.DAL.dll
+C:\Users\admin\Desktop\Vasilek-Cerozhka\API\Identity\IdentityVSAPI\IdentityVSAPI.Service\bin\Debug\net7.0\IdentityVSAPI.Domain.dll
+C:\Users\admin\Desktop\Vasilek-Cerozhka\API\Identity\IdentityVSAPI\IdentityVSAPI.Service\bin\Debug\net7.0\IdentityVSAPI.DAL.pdb
+C:\Users\admin\Desktop\Vasilek-Cerozhka\API\Identity\IdentityVSAPI\IdentityVSAPI.Service\bin\Debug\net7.0\IdentityVSAPI.Domain.pdb
+C:\Users\admin\Desktop\Vasilek-Cerozhka\API\Identity\IdentityVSAPI\IdentityVSAPI.Service\obj\Debug\net7.0\IdentityVSAPI.Service.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Vasilek-Cerozhka\API\Identity\IdentityVSAPI\IdentityVSAPI.Service\obj\Debug\net7.0\IdentityVSAPI.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Vasilek-Cerozhka\API\Identity\IdentityVSAPI\IdentityVSAPI.Service\obj\Debug\net7.0\IdentityVSAPI.Service.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Vasilek-Cerozhka\API\Identity\IdentityVSAPI\IdentityVSAPI.Service\obj\Debug\net7.0\IdentityVSAPI.Service.AssemblyInfo.cs
+C:\Users\admin\Desktop\Vasilek-Cerozhka\API\Identity\IdentityVSAPI\IdentityVSAPI.Service\obj\Debug\net7.0\IdentityVSAPI.Service.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Vasilek-Cerozhka\API\Identity\IdentityVSAPI\IdentityVSAPI.Service\obj\Debug\net7.0\IdentityVSAPI.Service.csproj.CopyComplete
+C:\Users\admin\Desktop\Vasilek-Cerozhka\API\Identity\IdentityVSAPI\IdentityVSAPI.Service\obj\Debug\net7.0\IdentityVSAPI.Service.dll
+C:\Users\admin\Desktop\Vasilek-Cerozhka\API\Identity\IdentityVSAPI\IdentityVSAPI.Service\obj\Debug\net7.0\refint\IdentityVSAPI.Service.dll
+C:\Users\admin\Desktop\Vasilek-Cerozhka\API\Identity\IdentityVSAPI\IdentityVSAPI.Service\obj\Debug\net7.0\IdentityVSAPI.Service.pdb
+C:\Users\admin\Desktop\Vasilek-Cerozhka\API\Identity\IdentityVSAPI\IdentityVSAPI.Service\obj\Debug\net7.0\ref\IdentityVSAPI.Service.dll

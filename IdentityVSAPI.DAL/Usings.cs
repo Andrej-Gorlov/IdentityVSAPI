@@ -1,0 +1,10 @@
+﻿global using IdentityVSAPI.Domain.Entity;
+global using Microsoft.AspNetCore.Identity;
+global using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+global using Microsoft.EntityFrameworkCore;
+global using IdentityVSAPI.DAL.Interfaces;
+global using Microsoft.Extensions.Logging;
+global using System.Linq.Expressions;
+global using IdentityModel;
+global using IdentityVSAPI.Domain;
+global using System.Security.Claims;

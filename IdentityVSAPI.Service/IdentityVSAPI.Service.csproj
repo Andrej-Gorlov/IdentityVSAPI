@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <UserSecretsId>64d1ebe1-6d0a-4443-91cc-7df2d2a77eb4</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.Configuration.UserSecrets" Version="6.0.1" />
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.29.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\IdentityVSAPI.DAL\IdentityVSAPI.DAL.csproj" />
+    <ProjectReference Include="..\IdentityVSAPI.Domain\IdentityVSAPI.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

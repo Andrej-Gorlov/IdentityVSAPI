@@ -1,0 +1,17 @@
+C:\Users\admin\Desktop\Vasilek-Cerozhka\API\Identity\IdentityVSAPI\IdentityVSAPI.DAL\bin\Debug\net7.0\IdentityVSAPI.DAL.deps.json
+C:\Users\admin\Desktop\Vasilek-Cerozhka\API\Identity\IdentityVSAPI\IdentityVSAPI.DAL\bin\Debug\net7.0\IdentityVSAPI.DAL.dll
+C:\Users\admin\Desktop\Vasilek-Cerozhka\API\Identity\IdentityVSAPI\IdentityVSAPI.DAL\bin\Debug\net7.0\IdentityVSAPI.DAL.pdb
+C:\Users\admin\Desktop\Vasilek-Cerozhka\API\Identity\IdentityVSAPI\IdentityVSAPI.DAL\bin\Debug\net7.0\IdentityVSAPI.Domain.dll
+C:\Users\admin\Desktop\Vasilek-Cerozhka\API\Identity\IdentityVSAPI\IdentityVSAPI.DAL\bin\Debug\net7.0\IdentityVSAPI.Domain.pdb
+C:\Users\admin\Desktop\Vasilek-Cerozhka\API\Identity\IdentityVSAPI\IdentityVSAPI.DAL\obj\Debug\net7.0\IdentityVSAPI.DAL.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Vasilek-Cerozhka\API\Identity\IdentityVSAPI\IdentityVSAPI.DAL\obj\Debug\net7.0\IdentityVSAPI.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Vasilek-Cerozhka\API\Identity\IdentityVSAPI\IdentityVSAPI.DAL\obj\Debug\net7.0\IdentityVSAPI.DAL.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Vasilek-Cerozhka\API\Identity\IdentityVSAPI\IdentityVSAPI.DAL\obj\Debug\net7.0\IdentityVSAPI.DAL.AssemblyInfo.cs
+C:\Users\admin\Desktop\Vasilek-Cerozhka\API\Identity\IdentityVSAPI\IdentityVSAPI.DAL\obj\Debug\net7.0\IdentityVSAPI.DAL.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Vasilek-Cerozhka\API\Identity\IdentityVSAPI\IdentityVSAPI.DAL\obj\Debug\net7.0\IdentityVSAPI.DAL.csproj.CopyComplete
+C:\Users\admin\Desktop\Vasilek-Cerozhka\API\Identity\IdentityVSAPI\IdentityVSAPI.DAL\obj\Debug\net7.0\IdentityVSAPI.DAL.dll
+C:\Users\admin\Desktop\Vasilek-Cerozhka\API\Identity\IdentityVSAPI\IdentityVSAPI.DAL\obj\Debug\net7.0\refint\IdentityVSAPI.DAL.dll
+C:\Users\admin\Desktop\Vasilek-Cerozhka\API\Identity\IdentityVSAPI\IdentityVSAPI.DAL\obj\Debug\net7.0\IdentityVSAPI.DAL.pdb
+C:\Users\admin\Desktop\Vasilek-Cerozhka\API\Identity\IdentityVSAPI\IdentityVSAPI.DAL\obj\Debug\net7.0\ref\IdentityVSAPI.DAL.dll
+C:\Users\admin\Desktop\Vasilek-Cerozhka\API\Identity\IdentityVSAPI\IdentityVSAPI.DAL\bin\Debug\net7.0\IdentityVSAPI.DAL.runtimeconfig.json
+C:\Users\admin\Desktop\Vasilek-Cerozhka\API\Identity\IdentityVSAPI\IdentityVSAPI.DAL\obj\Debug\net7.0\IdentityVSAPI.DAL.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "dvYS7IXO6sEKtnidOMfxggRjiWiz/efN8WIwWI4xAyk=",
+  "Source": "IdentityVSAPI",
+  "BasePath": "_content/IdentityVSAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

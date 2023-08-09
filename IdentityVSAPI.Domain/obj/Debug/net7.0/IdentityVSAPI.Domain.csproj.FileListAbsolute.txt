@@ -1,0 +1,12 @@
+C:\Users\admin\Desktop\Vasilek-Cerozhka\API\Identity\IdentityVSAPI\IdentityVSAPI.Domain\bin\Debug\net7.0\IdentityVSAPI.Domain.deps.json
+C:\Users\admin\Desktop\Vasilek-Cerozhka\API\Identity\IdentityVSAPI\IdentityVSAPI.Domain\bin\Debug\net7.0\IdentityVSAPI.Domain.dll
+C:\Users\admin\Desktop\Vasilek-Cerozhka\API\Identity\IdentityVSAPI\IdentityVSAPI.Domain\bin\Debug\net7.0\IdentityVSAPI.Domain.pdb
+C:\Users\admin\Desktop\Vasilek-Cerozhka\API\Identity\IdentityVSAPI\IdentityVSAPI.Domain\obj\Debug\net7.0\IdentityVSAPI.Domain.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Vasilek-Cerozhka\API\Identity\IdentityVSAPI\IdentityVSAPI.Domain\obj\Debug\net7.0\IdentityVSAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Vasilek-Cerozhka\API\Identity\IdentityVSAPI\IdentityVSAPI.Domain\obj\Debug\net7.0\IdentityVSAPI.Domain.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Vasilek-Cerozhka\API\Identity\IdentityVSAPI\IdentityVSAPI.Domain\obj\Debug\net7.0\IdentityVSAPI.Domain.AssemblyInfo.cs
+C:\Users\admin\Desktop\Vasilek-Cerozhka\API\Identity\IdentityVSAPI\IdentityVSAPI.Domain\obj\Debug\net7.0\IdentityVSAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Vasilek-Cerozhka\API\Identity\IdentityVSAPI\IdentityVSAPI.Domain\obj\Debug\net7.0\IdentityVSAPI.Domain.dll
+C:\Users\admin\Desktop\Vasilek-Cerozhka\API\Identity\IdentityVSAPI\IdentityVSAPI.Domain\obj\Debug\net7.0\refint\IdentityVSAPI.Domain.dll
+C:\Users\admin\Desktop\Vasilek-Cerozhka\API\Identity\IdentityVSAPI\IdentityVSAPI.Domain\obj\Debug\net7.0\IdentityVSAPI.Domain.pdb
+C:\Users\admin\Desktop\Vasilek-Cerozhka\API\Identity\IdentityVSAPI\IdentityVSAPI.Domain\obj\Debug\net7.0\ref\IdentityVSAPI.Domain.dll
