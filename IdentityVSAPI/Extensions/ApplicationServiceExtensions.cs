@@ -25,5 +25,5 @@ namespace IdentityVSAPI.Extensions
 
             return services;
         }
-    }
+    }       
 }

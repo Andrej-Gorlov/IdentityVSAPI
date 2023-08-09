@@ -7,6 +7,6 @@
         public string? MiddleName { get; set; } = string.Empty;
         public string RefreshToken { get; set; } = string.Empty;
         public DateTime RefreshTokenExpiryTime { get; set; }
-        public DateTime BirthDate { get; init; }
+        public DateTime BirthDate { get; init; }  
     }
 }

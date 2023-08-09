@@ -6,7 +6,7 @@
         : base(options)
         {
             //Database.Migrate();
-            AppContext.SetSwitch("Npgsql.EnableLegacyTimestampBehavior", true);
+            AppContext.SetSwitch("Npgsql.EnableLegacyTimestampBehavior", true);  
         }
     }
 }

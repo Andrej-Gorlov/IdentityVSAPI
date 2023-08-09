@@ -33,7 +33,7 @@ namespace IdentityVSAPI.Controllers
         /// <response code="401"> Пользователь не авторизован. </response>
         /// <response code="406"> Несоответствующие данные. </response>
         [HttpPost("login")]
-        [ProducesResponseType(StatusCodes.Status200OK)]
+        [ProducesResponseType(StatusCodes.Status200OK)]     
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
         [ProducesResponseType(StatusCodes.Status401Unauthorized)]
         [ProducesResponseType(StatusCodes.Status406NotAcceptable)]

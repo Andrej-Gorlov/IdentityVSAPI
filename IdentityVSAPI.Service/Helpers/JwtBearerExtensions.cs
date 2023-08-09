@@ -46,7 +46,7 @@
         {
             return new SigningCredentials(
             new SymmetricSecurityKey(
-                Encoding.UTF8.GetBytes("3uhqHXxc._]$iV55G.WG{NtG4jKQ5wL*")
+                Encoding.UTF8.GetBytes("")
             ),
             SecurityAlgorithms.HmacSha256);
         }
